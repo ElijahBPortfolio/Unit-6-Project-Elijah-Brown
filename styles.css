@@ -1,0 +1,160 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-color:orange;
+}
+
+a { 
+    color:#638ce7; 
+}
+
+.title {
+    font-size: 50px;
+    background-color: #d04343;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    height: 40px;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.hallways {
+    display:flex;
+    justify-content:space-around;
+}
+
+.empty_space {
+    display:none;
+    width:500px;
+}
+/* Every Button Below this Line Must be Hidden! */
+.path-1a {
+    display:none;
+}
+
+.path-1b {
+    display:none;
+}
+
+.path-2 {
+    display:none;
+}
+
+.path-2a {
+    display:none;
+}
+
+.path-2b {
+    display:none;
+}
+/* Every Button Above this Line Is Hidden! */
+
+img {
+    height:350px;
+}
+
+/* Every Image Element Below this Line is Hidden! */
+.imageStart {
+    display:none;
+}
+
+.imageHauntedHouse {
+    display:none;
+}
+
+.imageBadEnd {
+    display:none;
+}
+
+.imageLeftHallway {
+    display:none;
+}
+
+.imageRightHallway {
+    display:none;
+    width:500px;
+}
+
+.imageCarKeys {
+    display:none;
+}
+
+.imageDeadEnd {
+    display:none;
+}
+
+.imageGhost {
+    display:none;
+}
+
+.imageGoodEnd {
+    display:none;
+}
+/* Every Image Element Above this Line is Hidden! */
+
+/* Every text Element Below this Line is Hidden! */
+.badEnd {
+    display:none;
+    font-size: 50px;
+    color:orange;
+    font-family: "Caesar Dressing", cursive;
+}
+
+.message-1 {
+    display:none;
+}
+
+.message-1a {
+    display:none;
+}
+
+.message-1b {
+    display:none;
+}
+
+.message-2 {
+    display:none;
+}
+
+.message-2a {
+    display:none;
+}
+
+.message-2b {
+    display:none;
+}
+
+.message-3 {
+    display:none;
+}
+
+.message-4 {
+    display:none;
+}
+
+.message-ending {
+    display:none;
+    font-size:100px;
+    color:#75fc72;
+    font-family: "Caesar Dressing", cursive;
+}
+
+.message-restart {
+    display:none;
+}
+/* Every text Element Above this Line is Hidden! */
+
+
+h1 {
+    font-size: 50px;
+}
